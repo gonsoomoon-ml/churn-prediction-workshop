@@ -13,12 +13,16 @@
 - 모델 학습: SageMaker Built-in XGBoost Algorithm 사용
 - **Inference Pipeline: '전처리 --> 모델 추론 -> 후처리' 로 파이프라인 생성**
     - ![Inference Pipeline](img/Fig2.2.inference_pipeline.png)
-- 배치 추론: SageMaker Batch Transform
+- 배치 추론: SageMaker Batch Transform 사용하여 추론
     - 모델 평가: Confusion Matrix를 생성하여 F1, Precision, Recall, Accuracy 확인
-- 실시간 추론: SageMaker Realtime Endpoint
+- 실시간 추론: SageMaker Realtime Endpoint 사용하여 추론
+
+## 워크샵 사전 준비 사항
+에벤트 엔진, 세이지 메이커 노트북 설치, 소스 다운로드를 위해서 아래를 클릭해서 진행 해주세요.
+- 사전 준비 사항: [여기](prerequisite/Prerequisite.md)
 
 - 이 워크샵은 아래 블로그들을 참조하여 작성을 함.
-- Reference:
+## Reference:
     * Blog: Visualizing Amazon SageMaker machine learning predictions with Amazon QuickSight
         * https://aws.amazon.com/blogs/machine-learning/making-machine-learning-predictions-in-amazon-quicksight-and-amazon-sagemaker/
         * Git
