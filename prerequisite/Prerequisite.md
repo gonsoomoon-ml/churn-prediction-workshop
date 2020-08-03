@@ -69,4 +69,3 @@
 # 준비 완료 (Get Ready)
 
 - 핸즈온의 준비가 완료 되었습니다. 만일 이 과정이 완료가 안되었으면 진행자에게 알려 주세요.
-![image.png](attachment:image.png)![image.png](attachment:image.png)![image.png](attachment:image.png)
