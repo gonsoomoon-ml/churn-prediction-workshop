@@ -2,7 +2,7 @@
 
 # 1. 이벤트 엔진 접속 (Event Engine Access)
 - 이벤트 엔진으로 접속이 아닐시에는 "2. SageMaker 노트북 생성 (Create SageMaker Notebook)" 에서 시작 해주세요. (Skip this section if you don't use the event engine)
-- 이벤트 엔진(https://dashboard.eventengine.run)에 접속을 하시고, 받으신 해시 코드를 입력해주세요. (Connect to the event engine and enter the hashcode given)
+- **이벤트 엔진( https://dashboard.eventengine.run )에 접속**을 하시고, 받으신 해시 코드를 입력해주세요. (Connect to the event engine and enter the hashcode given)
 
 ![EventEngine](img/Fig0.1-EventEngine.png)
 

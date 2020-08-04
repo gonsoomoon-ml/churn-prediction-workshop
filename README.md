@@ -1,3 +1,9 @@
+## 워크샵 사전 준비 사항
+
+에벤트 엔진, 세이지 메이커 노트북 설치, 소스 다운로드를 위해서 아래를 클릭해서 진행 해주세요.
+- 사전 준비 사항: [여기](prerequisite/Prerequisite.md)
+
+
 # 고객 이탈 예측 모델 및 평가 (Churn Prediction Model)
 - 실제 미국 이동 통신 회사의 고객 데이타를 가지고 모델 학습 및 평가 함.
 - This content is mostly in Korean. Please let me know if you need in english
@@ -17,9 +23,7 @@
     - 모델 평가: Confusion Matrix를 생성하여 F1, Precision, Recall, Accuracy 확인
 - 실시간 추론: SageMaker Realtime Endpoint 사용하여 추론
 
-## 워크샵 사전 준비 사항
-에벤트 엔진, 세이지 메이커 노트북 설치, 소스 다운로드를 위해서 아래를 클릭해서 진행 해주세요.
-- 사전 준비 사항: [여기](prerequisite/Prerequisite.md)
+
 
 - 이 워크샵은 아래 블로그들을 참조하여 작성을 함.
 ## Reference:
@@ -32,3 +36,4 @@
         * https://aws.amazon.com/blogs/machine-learning/preprocess-input-data-before-making-predictions-using-amazon-sagemaker-inference-pipelines-and-scikit-learn/
         * Git: Inference Pipeline with Scikit-learn and Linear Learner
             * https://github.com/awslabs/amazon-sagemaker-examples/blob/master/sagemaker-python-sdk/scikit_learn_inference_pipeline/Inference%20Pipeline%20with%20Scikit-learn%20and%20Linear%20Learner.ipynb
+
