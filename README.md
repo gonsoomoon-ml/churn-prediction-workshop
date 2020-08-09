@@ -1,7 +1,9 @@
 ## 워크샵 사전 준비 사항
 
 에벤트 엔진, 세이지 메이커 노트북 설치, 소스 다운로드를 위해서 아래를 클릭해서 진행 해주세요.
-- 사전 준비 사항: [여기](prerequisite/Prerequisite.md)
+- **사전 준비 사항**: [여기](prerequisite/Prerequisite.md)
+- **노트북 1.0, 2.0, 3,0, 4.0 을 실행하시면 워크샵 완료 입니다.**
+- 참고 및 옵션으로서 노트북 9.0 은 2.0, 4.0 을 결합한 버전으로 log-prpreprocessing.py을 사용하여 추론시 로그를 남기어서 Inferenece pipeline이 어떻게 작동하는지를 확인하게 합니다. **노트북 9.1이 prpreprocessing.py를 설명하면서 Inferenece pipeline를 설명 합니다.**
 
 
 # 고객 이탈 예측 모델 및 평가 (Churn Prediction Model)
